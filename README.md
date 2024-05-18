@@ -57,6 +57,3 @@ This project explores the application of machine learning algorithms to predict 
     ```sh
     python scripts/deploy_model.py
     ```
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
